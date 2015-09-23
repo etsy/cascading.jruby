@@ -1,7 +1,0 @@
-<ivysettings>
-  <include url="http://conjars.org/repo/ivysettings.xml"/>
-
-  <resolvers>
-    <ibiblio name="public" m2compatible="true"/>
-  </resolvers>
-</ivysettings>
